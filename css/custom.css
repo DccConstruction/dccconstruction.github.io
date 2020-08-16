@@ -88,8 +88,7 @@
 }
 
 .banner {
-  background: url(http://www.rowlinsonconstruction.co.uk/wp-content/themes/rowlinson/media/home_slider_images/private-development.jpg)
-    no-repeat left center;
+  background: url("img/dcc-banner.jpg") no-repeat left center;
   background-size: cover;
   padding-top: 80px;
   padding-bottom: 30%;
